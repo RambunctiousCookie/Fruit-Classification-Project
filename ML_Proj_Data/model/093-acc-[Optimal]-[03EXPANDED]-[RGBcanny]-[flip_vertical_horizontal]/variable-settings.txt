@@ -1,0 +1,16 @@
+# Set Variables
+img_size = 224
+epochs = 64
+batchsize= 10
+validation_split=0.2
+patience_value = 5
+retain_aspect_ratio = True
+use_classweights = True
+use_random_oversampling = False
+
+var_model = 'Optimal' 
+
+var_data = '03EXPANDED' 
+
+var_aug= ['RGBcanny', 'flip_vertical_horizontal']
+

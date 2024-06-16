@@ -1,5 +1,4 @@
-# Python Convolutional Neural Network (CNN) for Fruit Classification
-This is a simple project that generates a randomized json output with configurable attributes and key-value data. It uses a command-line interface.
+# Convolutional Neural Network (CNN) for Fruit Classification
 
 ## Introduction
 This project leverages existing libraries to develop an image Classifier that can correctly identify different types of fruit. 
